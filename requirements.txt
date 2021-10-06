@@ -1,0 +1,8 @@
+flask
+flask-bcrypt
+flask-restful
+flask-sqlalchemy
+flask-jwt-extended
+cerberus
+requests
+flask-testing
